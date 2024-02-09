@@ -35,4 +35,7 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store!/src/main/java/ru/QuickSort.java
+!/src/main/java/ru/BinarySearch.java
+!/src/main/java/ru/QuickSort.java
+!/src/main/java/ru/ListNode.java
